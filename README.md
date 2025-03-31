@@ -1,13 +1,15 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Piriya Surinpao
-=======================================================================================================================================
+## Piriya Surinpao (พิริยะ สุรินเปา) 💻
+
+
+Web & App Developer
+
+* 🧠 **Focus:** Full Stack Development
+* 🔭 **Seeking:** Challenging Projects & Collaboration Opportunities
+* 🌍 **Location:** Chiang Mai , Thailand
+* ✉️ **Contact:** [ganran00121@gmail.com](mailto:ganran00121@gmail.com) , [piriya.surinpao@gmail.com](mailto:piriya.surinpao@gmail.com)
 
 -------
 
-I am studying and learning Vue and React.
-
-* 🌍  I'm based in Chiang Mai , Bangkok
-* ✉️  You can contact me at [ganran00121@gmail.com](mailto:ganran00121@gmail.com)
-* 🧠  I'm learning Vue , react
 
 
 ### Skills
